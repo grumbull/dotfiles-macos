@@ -1,1 +1,7 @@
-.DS_Store
+\.git
+\.gitignore
+
+^/README.*
+^/LICENSE.*
+
+^/.DS_Store
